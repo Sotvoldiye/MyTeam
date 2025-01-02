@@ -15,7 +15,8 @@
 
 .hero-contianer {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero-divider{
@@ -26,6 +27,7 @@
   font-size: 100px;
   line-height:100px;
   width: 535px;
+  margin-right: auto;
 }
 
 .hero-description {
